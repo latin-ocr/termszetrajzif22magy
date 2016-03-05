@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./termszetrajzif22magy_0301.png"; bbox 0 0 2531 3735; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 0 2252 3728">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 0 2252 3728">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 0 2252 3728; baseline 0 -3407"><span class='ocrx_word' id='word_1_1' title='bbox 0 0 2252 3728; x_wconf 95' lang='lat' dir='ltr'>    </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 889 156 2398 316">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 889 156 2398 316">
+     <span class='ocr_line' id='line_1_2' title="bbox 889 156 2398 244; baseline 0.005 -23"><span class='ocrx_word' id='word_1_2' title='bbox 889 156 1298 241; x_wconf 52' lang='lat' dir='ltr'>Ter-meszetrajzi</span> <span class='ocrx_word' id='word_1_3' title='bbox 1347 172 1564 244; x_wconf 71' lang='lat' dir='ltr'>Ffizet&#39;ek</span> <span class='ocrx_word' id='word_1_4' title='bbox 2159 178 2240 229; x_wconf 84' lang='lat' dir='ltr'>xm.</span> <span class='ocrx_word' id='word_1_5' title='bbox 2267 178 2398 230; x_wconf 69' lang='lat' dir='ltr'>Tama.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 926 251 1914 316; baseline 0.005 -8"><span class='ocrx_word' id='word_1_6' title='bbox 926 251 940 256; x_wconf 8' lang='grc' dir='ltr'>ι’</span> <span class='ocrx_word' id='word_1_7' title='bbox 1006 274 1140 313; x_wconf 81' lang='lat' dir='ltr'>xxn</span> <span class='ocrx_word' id='word_1_8' title='bbox 1159 268 1435 316; x_wconf 63' lang='lat' dir='ltr'><strong>ksste‘c,189.9.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1521 261 1524 265; x_wconf 81' lang='grc'>’</span> <span class='ocrx_word' id='word_1_10' title='bbox 1908 287 1914 292; x_wconf 55' lang='lat'>&lt;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1726 3546 2531 3735">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1726 3546 2531 3735">
+     <span class='ocr_line' id='line_1_4' title="bbox 1726 3546 2531 3735; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 1726 3546 2531 3735; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

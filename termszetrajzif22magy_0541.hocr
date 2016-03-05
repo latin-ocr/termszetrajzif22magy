@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./termszetrajzif22magy_0541.png"; bbox 0 0 2482 3692; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 886 240 1547 415">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 886 240 1547 415">
+     <span class='ocr_line' id='line_1_1' title="bbox 886 240 1547 312; baseline -0.008 -15"><span class='ocrx_word' id='word_1_1' title='bbox 886 245 1237 312; x_wconf 54' lang='lat' dir='ltr'>Termeszetraj</span> <span class='ocrx_word' id='word_1_2' title='bbox 1247 245 1293 293; x_wconf 74' lang='lat' dir='ltr'>zi</span> <span class='ocrx_word' id='word_1_3' title='bbox 1329 240 1547 293; x_wconf 75' lang='lat' dir='ltr'>Ffizetek</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1003 378 1402 415; baseline -0.005 0"><span class='ocrx_word' id='word_1_4' title='bbox 1003 378 1402 415; x_wconf 50' lang='lat' dir='ltr'>xxll.k‹*)t‹2t,13÷›5),</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1920 489 2211 527">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1920 489 2211 527">
+     <span class='ocr_line' id='line_1_3' title="bbox 1920 489 2211 527; baseline -0.014 0"><span class='ocrx_word' id='word_1_5' title='bbox 1920 489 2150 527; x_wconf 55' lang='lat' dir='ltr'>XVllfl&#39;ixbl</span> <span class='ocrx_word' id='word_1_6' title='bbox 2165 503 2211 524; x_wconf 67' lang='lat' dir='ltr'>a.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 185 1058 2152 3228">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 185 1058 2152 3228">
+     <span class='ocr_line' id='line_1_4' title="bbox 185 1058 2152 3228; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 185 1058 2152 3228; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 816 3488 1643 3545">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 816 3488 1643 3545">
+     <span class='ocr_line' id='line_1_5' title="bbox 816 3488 1643 3545; baseline -0.007 -7"><span class='ocrx_word' id='word_1_8' title='bbox 816 3500 1056 3545; x_wconf 50' lang='grc' dir='ltr'>Ηειὶιχνωῐι</span> <span class='ocrx_word' id='word_1_9' title='bbox 1102 3497 1378 3535; x_wconf 59' lang='lat' dir='ltr'>olisnbwth</span> <span class='ocrx_word' id='word_1_10' title='bbox 1417 3499 1530 3532; x_wconf 43' lang='lat' dir='ltr'>»mm</span> <span class='ocrx_word' id='word_1_11' title='bbox 1583 3488 1643 3532; x_wconf 46' lang='lat' dir='ltr'>¹c&#39;</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

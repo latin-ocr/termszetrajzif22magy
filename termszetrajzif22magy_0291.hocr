@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./termszetrajzif22magy_0291.png"; bbox 0 0 2482 3648; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 924 175 1585 249">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 924 175 1585 249">
+     <span class='ocr_line' id='line_1_1' title="bbox 924 175 1585 249; baseline 0.008 -21"><span class='ocrx_word' id='word_1_1' title='bbox 924 175 1275 249; x_wconf 68' lang='lat' dir='ltr'>Terme}sze’traj</span> <span class='ocrx_word' id='word_1_2' title='bbox 1285 183 1331 231; x_wconf 68' lang='lat' dir='ltr'>zi</span> <span class='ocrx_word' id='word_1_3' title='bbox 1368 180 1585 234; x_wconf 69' lang='lat' dir='ltr'>Ffizetek</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1054 320 1458 362">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1054 320 1458 362">
+     <span class='ocr_line' id='line_1_2' title="bbox 1054 320 1458 362; baseline 0.005 -7"><span class='ocrx_word' id='word_1_4' title='bbox 1054 320 1140 356; x_wconf 73' lang='grc' dir='ltr'>ΧΧΠ</span> <span class='ocrx_word' id='word_1_5' title='bbox 1158 321 1320 362; x_wconf 56' lang='grc' dir='ltr'>Κῶῒθί,</span> <span class='ocrx_word' id='word_1_6' title='bbox 1351 325 1458 361; x_wconf 69' lang='grc'>1899.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1985 479 2261 516">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1985 479 2261 516">
+     <span class='ocr_line' id='line_1_3' title="bbox 1985 479 2261 516; baseline 0.014 -4"><span class='ocrx_word' id='word_1_7' title='bbox 1985 479 2070 514; x_wconf 70' lang='lat' dir='ltr'>Vffl.</span> <span class='ocrx_word' id='word_1_8' title='bbox 2083 479 2200 515; x_wconf 59' lang='lat' dir='ltr'>T‘c&#39;ssss</span> <span class='ocrx_word' id='word_1_9' title='bbox 2215 495 2261 516; x_wconf 77' lang='lat' dir='ltr'>a.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 37 1052 2452 3060">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 37 1052 2452 3060">
+     <span class='ocr_line' id='line_1_4' title="bbox 37 1052 2452 3060; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 37 1052 2452 3060; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 883 3396 1530 3452">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 883 3396 1530 3452">
+     <span class='ocr_line' id='line_1_5' title="bbox 883 3396 1530 3452; baseline 0 -14"><span class='ocrx_word' id='word_1_11' title='bbox 883 3397 1119 3438; x_wconf 55' lang='lat' dir='ltr'>(mosivhln</span> <span class='ocrx_word' id='word_1_12' title='bbox 1158 3396 1368 3438; x_wconf 57' lang='lat' dir='ltr'>fronlalffi</span> <span class='ocrx_word' id='word_1_13' title='bbox 1403 3412 1444 3437; x_wconf 71' lang='grc' dir='ltr'>η.</span> <span class='ocrx_word' id='word_1_14' title='bbox 1466 3411 1530 3452; x_wconf 55' lang='grc' dir='ltr'>η»,</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
